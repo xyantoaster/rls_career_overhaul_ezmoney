@@ -21,7 +21,7 @@ local function init()
     attributes[branch.attributeKey] = deepcopy(baseAttribute)
     attributes[branch.attributeKey].value = branch.defaultValue or baseAttribute.value
   end
-  local startingCapital = 10000
+  local startingCapital = 25000
   if career_career.hardcoreMode then
     startingCapital = 0
   end

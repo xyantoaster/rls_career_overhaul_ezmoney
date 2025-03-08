@@ -30,7 +30,7 @@
       "id": 1,
       "name": "insurance.policies.daily_driver.name",
       "description": "insurance.policies.daily_driver.description",
-      "paperworkFees": 50,
+      "paperworkFees": 25,
       "resetBonus": {
         "price": {
           "bonusStars": {
@@ -44,13 +44,13 @@
       },
       "gestures": {
         "policyScoreDecrease": {
-          "distance": 25000
+          "distance": 20000
         },
         "freeRepair": {
-          "distance": 22000
+          "distance": 18000
         }
       },
-      "initialBuyPrice": 2325,
+      "initialBuyPrice": 1750,
       "perks": {
         "paintRepair": {
           "baseValue": 2,
@@ -166,8 +166,8 @@
       "id": 2,
       "name": "insurance.policies.prestige.name",
       "description": "insurance.policies.prestige.description",
-      "paperworkFees": 70,
-      "initialBuyPrice": 2600,
+      "paperworkFees": 45,
+      "initialBuyPrice": 1500,
       "resetBonus": {
         "price": {
           "bonusStars": {
@@ -181,10 +181,10 @@
       },
       "gestures": {
         "policyScoreDecrease": {
-          "distance": 20000
+          "distance": 18000
         },
         "freeRepair": {
-          "distance": 18000
+          "distance": 15000
         }
       },
       "perks": {
@@ -300,9 +300,9 @@
     {
       "id": 3,
       "name": "insurance.policies.commercial.name",
-      "paperworkFees": 70,
+      "paperworkFees": 30,
       "description": "insurance.policies.commercial.description",
-      "initialBuyPrice": 3225,
+      "initialBuyPrice": 2550,
       "resetBonus": {
         "price": {
           "bonusStars": {

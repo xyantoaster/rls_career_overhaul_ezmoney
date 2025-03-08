@@ -152,7 +152,7 @@ local function finalizeParcelItemDistanceAndRewards(item)
   local template = deepcopy(M.getParcelTemplateById(item.templateId))
   item.modifiers = dParcelMods.generateModifiers(item, template, distance)
   item.rewards = {
-    money = getMoneyRewardForParcelItem(item, distance) * dProgress.getMoneyMultiplerForSkill('delivery'),
+    money = getMoneyRewardForParcelItem(item, distance) * dProgress.getMoneyMultiplerForSkill('delivery') * 1.25,
     beamXP = (baseXP + round(distance/800)) * hardcoreMultiplier,
     labourer = (baseXP + round(distance/800)) * hardcoreMultiplier,
     delivery = (baseXP + round(distance/800)) * hardcoreMultiplier

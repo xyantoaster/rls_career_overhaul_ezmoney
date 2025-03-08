@@ -14,8 +14,8 @@ local imgui = ui_imgui
 local vehicleDeliveryDelay = 60
 local shopGenerationDelay = 15 * 60
 local vehiclesPerDealership = 10
-local salesTax = 0.07
-local customLicensePlatePrice = 300
+local salesTax = 0.04
+local customLicensePlatePrice = 100
 
 local starterVehicleMileages = {bx = 165746239, etki = 285817342, covet = 80174611}
 local starterVehicleYears = {bx = 1990, etki = 1989, covet = 1989}

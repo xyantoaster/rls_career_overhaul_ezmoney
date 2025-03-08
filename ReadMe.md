@@ -1,6 +1,6 @@
-# RLS Career Overhaul v2.2.3 (0.34.2)
+# RLS Career Overhaul + EzMoney Mod v2.2.3 (0.34.2)
 
-Welcome to the **RLS Career Overhaul** mod for BeamNG.drive! This mod enhances various aspects of the game, including freeroam events, police interactions, the economy, deliveries, insurance, garage space, and dealerships. Dive into a more immersive and challenging career mode enriched with new features and improvements.
+Welcome to the **RLS Career Overhaul + EzMoney mod** for BeamNG.drive! This mod enhances various aspects of the game, including freeroam events, police interactions, the economy, deliveries, insurance, garage space, and dealerships. Dive into a more immersive and challenging career mode enriched with new features and improvements.
 
 ---
 
@@ -10,6 +10,7 @@ Welcome to the **RLS Career Overhaul** mod for BeamNG.drive! This mod enhances v
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Overview](#overview)
+  - [**EzMoney Changes**](#ezmoney-changes)
   - [Features](#features)
     - [Freeroam Events](#freeroam-events)
       - [Drag Events](#drag-events)
@@ -101,6 +102,17 @@ The **RLS Career Overhaul** mod significantly enhances the career mode experienc
 
 Now, the mod is also **compatible with Italy** (using the Italy Addon). The Italy Addon is available via the Silver Patreon Membership.
 
+---
+
+## EzMoney Changes
+The EzMoney mod changes the following:
+  - Makes Insurance policies cheaper and more generous
+  - You start a new same with $25,000 instead of $10,000 *(Note: Hardcore still starts with $0.)*
+  - Max speed trap fine is now $50 and fines are about 25% cheaper
+  - Marketplace buyers will **always** offer at least 80% of vehicle price
+  - Deliveries will make you 25% more money
+  - Sales tax is now 4%
+  - Custom license plates now cost only $100
 ---
 
 ## Features

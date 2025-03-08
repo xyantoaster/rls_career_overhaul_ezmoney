@@ -23,8 +23,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST002",
@@ -50,8 +50,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.45,
-        max = 1.15
+        min = 0.8,
+        max = 1.35
     }
 }, {
     id = "CUST003",
@@ -74,8 +74,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.15
+        min = 0.8,
+        max = 1.2
     }
 }, {
     id = "CUST004",
@@ -102,8 +102,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.25
+        min = 0.8,
+        max = 1.4
     }
 }, {
     id = "CUST005",
@@ -126,8 +126,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.75,
-        max = 1.15
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST006",
@@ -153,8 +153,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST007",
@@ -174,8 +174,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.55,
-        max = 1.15
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST008",
@@ -201,8 +201,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST009",
@@ -225,8 +225,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST010",
@@ -250,8 +250,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.2
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST011",
@@ -268,8 +268,8 @@ local customers = {{
         },
     },
     offerRange = {
-        min = 0.45,
-        max = 1.35
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST012",
@@ -292,8 +292,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.25,
-        max = 1.4
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST013",
@@ -316,8 +316,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST014",
@@ -340,8 +340,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.25,
-        max = 1.35
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST015",
@@ -372,8 +372,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST016",
@@ -405,8 +405,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.2,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 
 }, {
@@ -428,8 +428,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.15
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST018",
@@ -448,8 +448,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.2
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST019",
@@ -464,8 +464,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.15,
-        max = 1.1
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST020",
@@ -508,8 +508,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.25,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 }, -- Unlimited Customers (criteria defined only as minimums)
 {
@@ -533,8 +533,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 
 }, {
@@ -558,8 +558,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST023",
@@ -582,8 +582,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST024",
@@ -603,8 +603,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.25,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 
 }, {
@@ -625,8 +625,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.15,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 
 }, {
@@ -668,8 +668,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.85,
-        max = 1.55
+        min = 0.8,
+        max = 1.5
     }
 }, -- Additional Unlimited Customers That Do NOT Look at Performance
 {
@@ -686,8 +686,8 @@ local customers = {{
         -- No performance criteria
     },
     offerRange = {
-        min = 0.35,
-        max = 1.15
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST028",
@@ -703,8 +703,8 @@ local customers = {{
         -- No performance criteria
     },
     offerRange = {
-        min = 0.1,
-        max = 0.95
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST029",
@@ -723,8 +723,8 @@ local customers = {{
         -- No performance criteria
     },
     offerRange = {
-        min = 0.15,
-        max = 0.95
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST030",
@@ -740,8 +740,8 @@ local customers = {{
         -- No performance criteria
     },
     offerRange = {
-        min = 0.25,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST031",
@@ -762,8 +762,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     } -- no range provided → default
 }, -- Jefferson Motors (sells Custom American cars)
 {
@@ -785,8 +785,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.05,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, -- Rich's Motor Company (sells prestige, high–quality vehicles)
 {
@@ -808,8 +808,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.15,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, -- Quarryside Auto Sales (sells used trucks and vans)
 {
@@ -836,8 +836,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.75,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, -- Smash Rollers (FrameDealership – starting builds)
 {
@@ -865,8 +865,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.2,
-        max = 0.75
+        min = 0.8,
+        max = 1.5
     }
 }, -- Rocking Rally (sells rally vehicles)
 {
@@ -890,8 +890,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.7,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 }, -- Clockwise Drag Racing (sells drag vehicles)
 {
@@ -919,8 +919,8 @@ local customers = {{
 
     },
     offerRange = {
-        min = 0.25,
-        max = 1.35
+        min = 0.8,
+        max = 1.5
     }
 }, -- DriftGear Dealer (sells drift vehicles)
 {
@@ -947,8 +947,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.25,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, -- Gizamn's Rod Shop (sells modified/drift vehicles)
 {
@@ -975,8 +975,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.25,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, -- TJs Offroad World (sells offroad vehicles)
 {
@@ -1003,8 +1003,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 }, -- Trusted Auto Sales (sells discounted cars)
 {
@@ -1026,8 +1026,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.15,
-        max = 0.8
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST042",
@@ -1048,8 +1048,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.1,
-        max = 0.75
+        min = 0.8,
+        max = 1.5
     }
 }, -- Fast Automotive (sells fast race cars)
 {
@@ -1073,8 +1073,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.15,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST044",
@@ -1094,8 +1094,8 @@ local customers = {{
         -- No performance criteria
     },
     offerRange = {
-        min = 0.55,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST045",
@@ -1110,8 +1110,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.65,
-        max = 1.075
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST046",
@@ -1130,7 +1130,7 @@ local customers = {{
     },
     offerRange = {
         min = 0.8,
-        max = 1.25
+        max = 1.5
     } -- Higher offer range
 }, {
     id = "CUST047",
@@ -1173,8 +1173,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.15,
-        max = 1.1
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST049",
@@ -1192,8 +1192,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.85,
-        max = 1.45
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST050",
@@ -1219,8 +1219,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.1,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST051",
@@ -1257,7 +1257,7 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.45,
+        min = 0.8,
         max = 1.5
     }
 }, {
@@ -1287,8 +1287,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.65,
-        max = 1.35
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST053",
@@ -1311,8 +1311,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.65,
-        max = 1.35
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST054",
@@ -1332,8 +1332,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.85,
-        max = 1.35
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST055",
@@ -1356,8 +1356,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.85,
-        max = 1.35
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST056",
@@ -1383,8 +1383,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.2,
-        max = 1.0
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST057",
@@ -1407,8 +1407,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.25,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST058",
@@ -1434,8 +1434,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST059",
@@ -1458,8 +1458,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.1
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST060",
@@ -1485,8 +1485,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.15
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST061",
@@ -1509,8 +1509,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.45,
-        max = 1.2
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST062",
@@ -1536,8 +1536,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST063",
@@ -1560,8 +1560,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.55,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST064",
@@ -1587,8 +1587,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.6,
-        max = 1.35
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST065",
@@ -1611,8 +1611,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.65,
-        max = 1.4
+        min = 0.8,
+        max = 1.5
     }
 }, -- Motorsport Enthusiasts (10)
 {
@@ -1636,8 +1636,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.25,
-        max = 0.95
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST067",
@@ -1660,8 +1660,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.0
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST068",
@@ -1687,8 +1687,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST069",
@@ -1711,8 +1711,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.1
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST070",
@@ -1735,8 +1735,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.45,
-        max = 1.15
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST071",
@@ -1762,8 +1762,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.2
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST072",
@@ -1786,8 +1786,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.55,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST073",
@@ -1813,8 +1813,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.6,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST074",
@@ -1837,8 +1837,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.65,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST075",
@@ -1864,8 +1864,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.7,
-        max = 1.4
+        min = 0.8,
+        max = 1.5
     }
 }, -- Drag Racers (10)
 {
@@ -1889,8 +1889,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.0
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST077",
@@ -1913,8 +1913,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST078",
@@ -1940,8 +1940,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.1
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST079",
@@ -1964,8 +1964,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.45,
-        max = 1.15
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST080",
@@ -1988,8 +1988,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.2
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST081",
@@ -2015,8 +2015,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.55,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST082",
@@ -2039,8 +2039,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.6,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST083",
@@ -2063,8 +2063,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.65,
-        max = 1.35
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST084",
@@ -2090,8 +2090,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.7,
-        max = 1.4
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST085",
@@ -2114,8 +2114,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.75,
-        max = 1.45
+        min = 0.8,
+        max = 1.5
     }
 }, -- Offroad Adventurers (10)
 {
@@ -2139,8 +2139,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.0
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST087",
@@ -2163,8 +2163,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST088",
@@ -2190,8 +2190,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.1
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST089",
@@ -2214,8 +2214,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.45,
-        max = 1.15
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST090",
@@ -2238,8 +2238,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.2
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST091",
@@ -2265,8 +2265,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.55,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST092",
@@ -2289,8 +2289,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.6,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST093",
@@ -2313,8 +2313,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.65,
-        max = 1.35
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST094",
@@ -2337,8 +2337,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.7,
-        max = 1.4
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST095",
@@ -2361,8 +2361,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.75,
-        max = 1.45
+        min = 0.8,
+        max = 1.5
     }
 }, -- Rally Racers (10)
 {
@@ -2383,8 +2383,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.0
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST097",
@@ -2407,8 +2407,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST098",
@@ -2434,8 +2434,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.1
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST099",
@@ -2458,8 +2458,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.45,
-        max = 1.15
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST100",
@@ -2482,8 +2482,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.2
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST101",
@@ -2509,8 +2509,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.55,
-        max = 1.25
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST102",
@@ -2533,8 +2533,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.6,
-        max = 1.3
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST103",
@@ -2557,8 +2557,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.65,
-        max = 1.35
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST104",
@@ -2584,8 +2584,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.7,
-        max = 1.4
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST105",
@@ -2608,8 +2608,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.75,
-        max = 1.45
+        min = 0.8,
+        max = 1.5
     }
 }, -- Crawl Buyers (5)
 {
@@ -2627,8 +2627,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.0
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST107",
@@ -2648,8 +2648,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST108",
@@ -2669,8 +2669,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.0
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST109",
@@ -2690,8 +2690,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST110",
@@ -2711,8 +2711,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.1
+        min = 0.8,
+        max = 1.5
     }
 }, -- Apex Racing Fans (5)
 {
@@ -2733,8 +2733,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.0
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST112",
@@ -2757,8 +2757,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.05
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST113",
@@ -2781,8 +2781,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.1
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST114",
@@ -2805,8 +2805,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.45,
-        max = 1.15
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST115",
@@ -2832,8 +2832,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.2
+        min = 0.8,
+        max = 1.5
     }
 }, -- Budget Buyers (5)
 {
@@ -2849,8 +2849,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.1,
-        max = 0.8
+        min = 0.8,
+        max = 1.0
     }
 }, {
     id = "CUST117",
@@ -2865,8 +2865,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.15,
-        max = 0.85
+        min = 0.8,
+        max = 1.0
     }
 }, {
     id = "CUST118",
@@ -2881,8 +2881,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.1,
-        max = 0.75
+        min = 0.8,
+        max = 1.0
     }
 }, {
     id = "CUST119",
@@ -2897,8 +2897,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.1,
-        max = 0.9
+        min = 0.8,
+        max = 1.0
     }
 }, {
     id = "CUST120",
@@ -2913,8 +2913,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.15,
-        max = 0.85
+        min = 0.8,
+        max = 1.0
     }
 }, -- Luxury Buyers (5)
 {
@@ -2937,7 +2937,7 @@ local customers = {{
     },
     offerRange = {
         min = 1.0,
-        max = 1.25
+        max = 1.5
     }
 }, {
     id = "CUST122",
@@ -2965,8 +2965,8 @@ local customers = {{
 
     },
     offerRange = {
-        min = 1.1,
-        max = 1.4
+        min = 1.0,
+        max = 1.5
     }
 }, {
     id = "CUST123",
@@ -2987,8 +2987,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 1.05,
-        max = 1.55
+        min = 1.0,
+        max = 1.5
     }
 }, {
     id = "CUST124",
@@ -3015,8 +3015,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 1.2,
-        max = 1.7
+        min = 1.0,
+        max = 1.5
     }
 }, {
     id = "CUST125",
@@ -3040,8 +3040,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 1.25,
-        max = 1.55
+        min = 1.0,
+        max = 1.5
     }
 }, -- Classic Collectors (5)
 {
@@ -3060,7 +3060,7 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.1,
+        min = 0.8,
         max = 1.0
     }
 }, {
@@ -3079,7 +3079,7 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.1,
+        min = 0.8,
         max = 1.0
     }
 }, {
@@ -3098,8 +3098,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.15,
-        max = 1.1
+        min = 0.8,
+        max = 1.0
     }
 }, {
     id = "CUST129",
@@ -3117,8 +3117,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.1,
-        max = 0.95
+        min = 0.8,
+        max = 1.0
     }
 }, {
     id = "CUST130",
@@ -3136,7 +3136,7 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.15,
+        min = 0.8,
         max = 1.0
     }
 }, -- Repair / Utility Buyers (5)
@@ -3153,8 +3153,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.1,
-        max = 0.8
+        min = 0.8,
+        max = 0.9
     }
 }, {
     id = "CUST132",
@@ -3169,8 +3169,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.2,
-        max = 1.0
+        min = 0.8,
+        max = 1.2
     }
 }, {
     id = "CUST133",
@@ -3185,8 +3185,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.2,
-        max = 1.1
+        min = 0.8,
+        max = 1.12
     }
 }, {
     id = "CUST134",
@@ -3201,8 +3201,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.2,
-        max = 1.05
+        min = 0.8,
+        max = 1.12
     }
 }, {
     id = "CUST135",
@@ -3217,7 +3217,7 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.15,
+        min = 0.8,
         max = 0.9
     }
 }, -- Additional Mixed Stereotypes (20)
@@ -3243,8 +3243,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST137",
@@ -3262,8 +3262,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.2,
-        max = 1.0
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST138",
@@ -3284,8 +3284,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.15,
-        max = 1.1
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST139",
@@ -3305,8 +3305,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.0
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST140",
@@ -3326,8 +3326,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.1
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST141",
@@ -3347,8 +3347,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.1
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST142",
@@ -3363,8 +3363,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.2,
-        max = 1.15
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST143",
@@ -3384,8 +3384,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.1
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST144",
@@ -3406,8 +3406,8 @@ local customers = {{
         },
     },
     offerRange = {
-        min = 0.4,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST145",
@@ -3427,8 +3427,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.15
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST146",
@@ -3448,8 +3448,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST147",
@@ -3470,8 +3470,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST148",
@@ -3491,8 +3491,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.15
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST149",
@@ -3512,8 +3512,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST150",
@@ -3530,8 +3530,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.45,
-        max = 1.25
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST151",
@@ -3552,8 +3552,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST152",
@@ -3568,8 +3568,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.0
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST153",
@@ -3584,8 +3584,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.2,
-        max = 1.0
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST154",
@@ -3606,8 +3606,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.15
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST155",
@@ -3628,8 +3628,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST156",
@@ -3644,8 +3644,8 @@ local customers = {{
         } -- Prefers lower mileage for reliability
     },
     offerRange = {
-        min = 0.3,
-        max = 1.25
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST157",
@@ -3657,8 +3657,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.25,
-        max = 1.15
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST158",
@@ -3679,7 +3679,7 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
+        min = 0.8,
         max = 1.3
     }
 }, {
@@ -3692,8 +3692,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.25
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST160",
@@ -3708,8 +3708,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST161",
@@ -3724,8 +3724,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.1
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST162",
@@ -3740,8 +3740,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.15
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST163",
@@ -3759,8 +3759,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.15
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST164",
@@ -3772,8 +3772,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.25,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST165",
@@ -3785,8 +3785,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST166",
@@ -3798,8 +3798,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.45,
-        max = 1.35
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST167",
@@ -3814,7 +3814,7 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.4,
+        min = 0.8,
         max = 1.3
     }
 }, {
@@ -3827,8 +3827,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.4
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST169",
@@ -3843,8 +3843,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.2,
-        max = 1.0
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST170",
@@ -3856,8 +3856,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST171",
@@ -3869,8 +3869,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.4
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST172",
@@ -3882,8 +3882,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.35,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST173",
@@ -3898,7 +3898,7 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.45,
+        min = 0.8,
         max = 1.3
     }
 }, {
@@ -3914,8 +3914,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.1
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST175",
@@ -3939,8 +3939,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.3,
-        max = 1.2
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST175",
@@ -3964,8 +3964,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 1.0,
-        max = 1.4
+        min = 0.8,
+        max = 1.3
     }
 }, {
     id = "CUST176",
@@ -3981,7 +3981,7 @@ local customers = {{
         rep = { min = 2 },
         tickets = { max = 2 }
     },
-    offerRange = { min = 1.1, max = 1.25 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST177",
     name = "Mud Queen Maggie",
@@ -3995,7 +3995,7 @@ local customers = {{
         },
         evades = { min = 1 }
     },
-    offerRange = { min = 1.0, max = 1.3 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST178",
     name = "Extreme Mudder Eddie",
@@ -4011,7 +4011,7 @@ local customers = {{
         },
         taxiDropoffs = { min = 5 }
     },
-    offerRange = { min = 1.15, max = 1.35 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST179",
     name = "Banked Turn Betty",
@@ -4026,7 +4026,7 @@ local customers = {{
         rep = { min = 3 },
         movieRentals = { min = 1 }
     },
-    offerRange = { min = 1.2, max = 1.4 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST180",
     name = "Swamp Specialist Sam",
@@ -4040,7 +4040,7 @@ local customers = {{
         },
         repos = { min = 2 }
     },
-    offerRange = { min = 1.05, max = 1.3 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST181",
     name = "Dirt Track Dave",
@@ -4056,7 +4056,7 @@ local customers = {{
         },
         taxiDropoffs = { min = 3 }
     },
-    offerRange = { min = 0.6, max = 1.2 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST182",
     name = "Mud Marathon Mia",
@@ -4070,7 +4070,7 @@ local customers = {{
         },
         mileage = { max = 50000 }
     },
-    offerRange = { min = 0.95, max = 1.45 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST183",
     name = "Oval Outlaw Oscar",
@@ -4084,7 +4084,7 @@ local customers = {{
         },
         tickets = { min = 2 }
     },
-    offerRange = { min = 0.85, max = 1.35 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST184",
     name = "Bog Beast Brenda",
@@ -4098,7 +4098,7 @@ local customers = {{
         },
         mileage = { max = 200000 }
     },
-    offerRange = { min = 1.1, max = 1.35 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST185",
     name = "Clay Track Carl",
@@ -4116,7 +4116,7 @@ local customers = {{
         },
         rep = { min = 1 }
     },
-    offerRange = { min = 1.0, max = 1.3 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST186",
     name = "Mud Slinger Max",
@@ -4130,7 +4130,7 @@ local customers = {{
         },
         accidents = { min = 1 }
     },
-    offerRange = { min = 1.15, max = 1.4 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST187",
     name = "Extreme Endurance Eva",
@@ -4144,7 +4144,7 @@ local customers = {{
         },
         mileage = { max = 100000 }
     },
-    offerRange = { min = 0.95, max = 1.45 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST188",
     name = "High Bank Hank",
@@ -4158,7 +4158,7 @@ local customers = {{
         },
         powerPerWeight = { min = 0.2 }
     },
-    offerRange = { min = 0.85, max = 1.3 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST189",
     name = "Mud & Movies Marty",
@@ -4172,7 +4172,7 @@ local customers = {{
         },
         movieRentals = { min = 2 }
     },
-    offerRange = { min = 0.8, max = 1.35 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST190",
     name = "Oval Purist Pete",
@@ -4186,7 +4186,7 @@ local customers = {{
         },
         numAddedParts = { max = 5 }
     },
-    offerRange = { min = 0.85, max = 1.65 }
+    offerRange = { min = 0.9, max = 1.2 }
 }, {
     id = "CUST191",
     name = "Bog Navigator Nate",
@@ -4388,7 +4388,7 @@ local customers = {{
         deliveredItems = { min = 5120 }, -- 2x
         weight = { min = 10000 }
     },
-    offerRange = { min = 0.35, max = 1.05 }
+    offerRange = { min = 0.8, max = 1.05 }
 }, {
     id = "CUST206",
     name = "Mega Freight Logistics",
@@ -4397,7 +4397,7 @@ local customers = {{
         deliveredItems = { min = 10240 }, -- 4x
         weight = { min = 10000 }
     },
-    offerRange = { min = 0.45, max = 1.15 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST207", 
     name = "Continental Cargo Co",
@@ -4406,7 +4406,7 @@ local customers = {{
         deliveredItems = { min = 17920 }, -- 7x
         weight = { min = 10000 }
     },
-    offerRange = { min = 0.65, max = 1.35 }
+    offerRange = { min = 0.8, max = 1.35 }
 }, {
     id = "CUST208",
     name = "Global Heavy Movers",
@@ -4433,7 +4433,7 @@ local customers = {{
         deliveredItems = { min = 3072 },
         weight = { min = 4000, max = 7900 }
     },
-    offerRange = { min = 0.35, max = 1.05 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST211",
     name = "Regional Distribution Co",
@@ -4442,7 +4442,7 @@ local customers = {{
         deliveredItems = { min = 6144 },
         weight = { min = 4000, max = 7900 }
     },
-    offerRange = { min = 0.45, max = 1.15 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST212",
     name = "National Freight Network",
@@ -4451,7 +4451,7 @@ local customers = {{
         deliveredItems = { min = 10752 }, -- 7x
         weight = { min = 4000, max = 7900 }
     },
-    offerRange = { min = 0.65, max = 1.35 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST213",
     name = "Interstate Commerce Corp",
@@ -4523,7 +4523,7 @@ local customers = {{
         deliveredItems = { min = 1024 }, -- 2x
         weight = { min = 1000, max = 2000 }
     },
-    offerRange = { min = 0.35, max = 1.05 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST221",
     name = "Interstate Tow & Haul",
@@ -4532,7 +4532,7 @@ local customers = {{
         deliveredItems = { min = 2048 }, -- 4x
         weight = { min = 1000, max = 2000 }
     },
-    offerRange = { min = 0.45, max = 1.15 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST222",
     name = "National Trailer Fleet",
@@ -4541,7 +4541,7 @@ local customers = {{
         deliveredItems = { min = 3584 }, -- 7x
         weight = { min = 1000, max = 2000 }
     },
-    offerRange = { min = 0.65, max = 1.35 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST223",
     name = "Heavy Duty Trailer Co",
@@ -4568,7 +4568,7 @@ local customers = {{
         deliveredItems = { min = 8192 }, -- 2x
         weight = { min = 6900, max = 7800 }
     },
-    offerRange = { min = 0.35, max = 1.05 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST226",
     name = "Continental Oversized Transport",
@@ -4577,7 +4577,7 @@ local customers = {{
         deliveredItems = { min = 16384 }, -- 4x
         weight = { min = 6900, max = 7800 }
     },
-    offerRange = { min = 0.45, max = 1.15 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST227",
     name = "National Heavy Haulers",
@@ -4586,7 +4586,7 @@ local customers = {{
         deliveredItems = { min = 28672 }, -- 7x
         weight = { min = 6900, max = 7800 }
     },
-    offerRange = { min = 0.65, max = 1.35 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST228",
     name = "Interstate Super Load",
@@ -4613,7 +4613,7 @@ local customers = {{
         deliveredItems = { min = 512 }, -- 2x
         weight = { min = 0, max = 1000 }
     },
-    offerRange = { min = 0.35, max = 1.05 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST231",
     name = "Neighborhood Delivery Network",
@@ -4621,7 +4621,7 @@ local customers = {{
         deliveredItems = { min = 1024 }, -- 4x
         weight = { min = 0, max = 1000 }
     },
-    offerRange = { min = 0.45, max = 1.15 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST232",
     name = "Regional Mini Haulers",
@@ -4629,7 +4629,7 @@ local customers = {{
         deliveredItems = { min = 1792 }, -- 7x
         weight = { min = 0, max = 1000 }
     },
-    offerRange = { min = 0.65, max = 1.35 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST233",
     name = "National Light Transport",
@@ -4654,7 +4654,7 @@ local customers = {{
         deliveredItems = { min = 1536 }, -- 2x
         weight = { min = 3200, max = 4000 }
     },
-    offerRange = { min = 0.35, max = 1.05 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST236",
     name = "Heavy Urban Couriers",
@@ -4662,7 +4662,7 @@ local customers = {{
         deliveredItems = { min = 3072 }, -- 4x
         weight = { min = 3200, max = 4000 }
     },
-    offerRange = { min = 0.45, max = 1.15 }
+    offerRange = { min = 0.8, max = 1.0 }
 }, {
     id = "CUST237",
     name = "Metro Box Truck Alliance",
@@ -4670,7 +4670,7 @@ local customers = {{
         deliveredItems = { min = 5376 }, -- 7x
         weight = { min = 3200, max = 4000 }
     },
-    offerRange = { min = 0.65, max = 1.35 }
+    offerRange = { min = 0.8, max = 1.2 }
 }, {
     id = "CUST238",
     name = "Interstate Cargo Carriers",
@@ -4923,7 +4923,7 @@ local customers = {{
         numAddedParts = { min = 3 },
         tickets = { max = 0 }
     },
-    offerRange = { min = 0.7, max = 1.4 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST265",
     name = "Federal Protection",
@@ -5095,7 +5095,7 @@ local customers = {{
     criteria = {
         value = { min = 80000 }
     },
-    offerRange = { min = 0, max = 0.15 }
+    offerRange = { min = 0.8, max = 0.85 }
 }, {
     id = "CUST280",
     name = "Devin The Ballbreaker",
@@ -5123,8 +5123,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.5,
-        max = 1.1
+        min = 0.8,
+        max = 1.5
     }
 }, {
     id = "CUST282",
@@ -5142,7 +5142,7 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.6,
+        min = 0.8,
         max = 1.25
     }
 }, {
@@ -5161,8 +5161,8 @@ local customers = {{
         }
     },
     offerRange = {
-        min = 0.75,
-        max = 1.4
+        min = 0.8,
+        max = 1.25
     }
 }, {
     id = "CUST284",
@@ -5215,7 +5215,7 @@ local customers = {{
         accidents = { max = 2 },
         weight = { max = 10000 }
     },
-    offerRange = { min = 0.55, max = 1.15 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST287",
     name = "Eco Taxi Alliance",
@@ -5226,7 +5226,7 @@ local customers = {{
         mileage = { max = 120000 },
         weight = { max = 10000 }
     },
-    offerRange = { min = 0.6, max = 1.2 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST288",
     name = "Vintage Cab Collective",
@@ -5237,7 +5237,7 @@ local customers = {{
         numAddedParts = { min = 4 },
         weight = { max = 10000 }
     },
-    offerRange = { min = 0.65, max = 1.25 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST289",
     name = "Airport Express Taxis",
@@ -5248,7 +5248,7 @@ local customers = {{
         evades = { min = 2 },
         weight = { max = 10000 }
     },
-    offerRange = { min = 0.7, max = 1.3 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST290",
     name = "Luxury Ride Partners",
@@ -5259,7 +5259,7 @@ local customers = {{
         movieRentals = { min = 1 },
         weight = { max = 10000 }
     },
-    offerRange = { min = 0.75, max = 1.35 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST291",
     name = "Compact City Cabs",
@@ -5433,7 +5433,7 @@ local customers = {{
         weight = { min = 10000 },
         numAddedParts = { min = 5 }
     },
-    offerRange = { min = 0.45, max = 1.05 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST307",
     name = "School Bus Specialists",
@@ -5443,7 +5443,7 @@ local customers = {{
         weight = { min = 10000 },
         accidents = { max = 1 }
     },
-    offerRange = { min = 0.48, max = 1.08 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST308",
     name = "Intercity Coach Co",
@@ -5453,7 +5453,7 @@ local customers = {{
         weight = { min = 10000 },
         mileage = { max = 300000 }
     },
-    offerRange = { min = 0.51, max = 1.11 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST309",
     name = "Tour Bus Operators",
@@ -5463,7 +5463,7 @@ local customers = {{
         weight = { min = 10000 },
         movieRentals = { min = 3 }
     },
-    offerRange = { min = 0.54, max = 1.14 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST310",
     name = "Airport Shuttle Service",
@@ -5473,7 +5473,7 @@ local customers = {{
         weight = { min = 10000 },
         rep = { min = 4.0 }
     },
-    offerRange = { min = 0.57, max = 1.17 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST311",
     name = "Double Decker Tours",
@@ -5483,7 +5483,7 @@ local customers = {{
         weight = { min = 10000 },
         height = { min = 4.0 }
     },
-    offerRange = { min = 0.60, max = 1.20 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST312",
     name = "City Sightseeing Buses",
@@ -5493,7 +5493,7 @@ local customers = {{
         weight = { min = 10000 },
         numAddedParts = { min = 8 }
     },
-    offerRange = { min = 0.63, max = 1.23 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST313",
     name = "Charter Bus Alliance",
@@ -5503,7 +5503,7 @@ local customers = {{
         weight = { min = 10000 },
         value = { min = 50000 }
     },
-    offerRange = { min = 0.66, max = 1.26 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST314",
     name = "Mobile Classroom Co",
@@ -5513,7 +5513,7 @@ local customers = {{
         weight = { min = 10000 },
         suspectsCaught = { min = 5 }
     },
-    offerRange = { min = 0.69, max = 1.29 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST315",
     name = "VIP Party Bus Co",
@@ -5523,7 +5523,7 @@ local customers = {{
         weight = { min = 10000 },
         numAddedParts = { min = 10 }
     },
-    offerRange = { min = 0.72, max = 1.32 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST316",
     name = "Eco Bus Initiative",
@@ -5533,7 +5533,7 @@ local customers = {{
         weight = { min = 10000 },
         mileage = { max = 200000 }
     },
-    offerRange = { min = 0.75, max = 1.35 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST317",
     name = "Night Bus Network",
@@ -5543,7 +5543,7 @@ local customers = {{
         weight = { min = 10000 },
         evades = { max = 1 }
     },
-    offerRange = { min = 0.78, max = 1.38 }
+    offerRange = { min = 0.8, max = 1.3 }
 }, {
     id = "CUST318",
     name = "Rural Bus Service",

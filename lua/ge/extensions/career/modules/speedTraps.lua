@@ -8,10 +8,10 @@ local leaderboardFolder = "/career/speedTrapLeaderboards/"
 
 M.dependencies = {'career_career', 'gameplay_speedTraps', 'gameplay_traffic'}
 local fines = {
-  {overSpeed = 6.7056, fine = {money = {amount = 35, canBeNegative = true}}},
-  {overSpeed = 11.176, fine = {money = {amount = 70, canBeNegative = true}}},
+  {overSpeed = 6.7056, fine = {money = {amount = 25, canBeNegative = true}}},
+  {overSpeed = 11.176, fine = {money = {amount = 45, canBeNegative = true}}},
 }
-local maxFine = {money = {amount = 100, canBeNegative = true}}
+local maxFine = {money = {amount = 50, canBeNegative = true}}
 local playerPursuiting = false
 
 local function getFineFromSpeed(overSpeed)
