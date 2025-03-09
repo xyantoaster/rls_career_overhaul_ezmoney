@@ -287,9 +287,9 @@ function VehicleRepoJob:calculateReward()
     local distanceMultiplier = self.totalDistanceTraveled * 2
     local timeMultiplier = (self.totalDistanceTraveled / ((os.time() - self.jobStartTime) * 10))
     local reward = math.floor((((5 * math.sqrt(self.vehicleValue or 1000)) + distanceMultiplier) * timeMultiplier)/ 4)
-    reward = reward * 1.25 + 1000
+    reward = (reward * 1.25 + 1000) * 2
     if career_modules_hardcore.isHardcoreMode() then
-        reward = reward * 0.4
+        reward = reward * 0.75
     end
     return reward
 end

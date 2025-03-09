@@ -48,7 +48,7 @@ local levelDefaults = {
       icon = "boxPickUp03"
     },
     deliveryBonus = {
-      value = 1.1,
+      value = 1.25,
     }
   },
   [2] = {
@@ -60,7 +60,7 @@ local levelDefaults = {
       icon = "boxPickUp03"
     },
     deliveryBonus = {
-      value = 1.2,
+      value = 1.5,
     }
   },
   [3] = {
@@ -72,7 +72,7 @@ local levelDefaults = {
       icon = "boxPickUp03"
     },
     deliveryBonus = {
-      value = 1.4,
+      value = 1.75,
     }
   },
 }

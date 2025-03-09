@@ -113,6 +113,8 @@ The EzMoney mod changes the following:
   - Deliveries will make you 25% more money
   - Sales tax is now 4%
   - Custom license plates now cost only $100
+  - Repo missions make x2 money and in Hardcore mode you make 25% less instead of 60% less
+  - You make 25% more money from being level 1 with a company, 50% at level 2 and 75% at level 3
 ---
 
 ## Features
